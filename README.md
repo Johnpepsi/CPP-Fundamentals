@@ -4,7 +4,7 @@ This repo focuses on the OOPs concepts that I learnt rather than the C++ specifi
 
 
 ## Topic Materials Included (Year 1 [CS110])
-* C** Program Structure, Simple IO, and Primitive Data Types,
+* C++ Program Structure, Simple IO, and Primitive Data Types,
 * IO Manipulators, get() and getline() functions
 * FILE IO and String Processing
 * Selection Control Structures
