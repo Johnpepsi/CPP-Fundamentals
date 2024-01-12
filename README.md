@@ -12,6 +12,4 @@ This repo focuses on the OOPs concepts that I learnt rather than the C++ specifi
 * Addutuinal Control Structures
 * Basic Functions
 * Advanced Functions
-* One Dimensional Arrays,
-
-## Currently still working in this course
+* One Dimensional Arrays.
