@@ -1,0 +1,3 @@
+Now processed file 'ex2_input.txt'
+Sum: 40.6
+Average: 4.06
