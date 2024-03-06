@@ -4,14 +4,6 @@
 using namespace std;
 
 int main() {
-  /*************************************************
-   * Student Name: John Palaganas
-   * Student Number: 200480405
-   * Replit User Name: <~~jpl653~~<<
-   * Assignment Number: CS 110 Assignment 1
-   * Program Name: A1Q3.cpp
-   * Last Modified:
-   *************************************************/
 
   // follow up question: on number 4. Do we need to create a data types for my
   // friend? Or we can just
