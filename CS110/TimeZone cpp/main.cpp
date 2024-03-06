@@ -1,12 +1,3 @@
- /*************************************************
-   * Student Name: John Palaganas
-   * Student Number: 200480405
-   * Replit User Name: <~~jpl653~~<<
-   * Assignment Number: CS 110 Assignment 1 Question 3 & 4
-   * Program Name: A1Q4.cpp
-   * Last Modified: January 24 2024
-   *************************************************/
-
 #include <iostream>
 #include <ctime>   // This header provides functionality related in Date and Time.
 #include <iomanip> // This header manipulates the formatting input and output streams.
