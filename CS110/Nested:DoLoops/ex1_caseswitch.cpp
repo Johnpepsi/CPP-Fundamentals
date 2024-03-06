@@ -1,14 +1,3 @@
-/*************************************************
- * Student Name: John Palaganas
- * Student Number: 200480405
- * Replit User Name: <~~jpl653~~<<
- * Acitvity: Lab 7 Exercise 1 - 3
- * Program Name: ex3_stars.cpp
- * Last Modified: March 05 2024
- * Learning: do while loop
- //Please complete this exercise using the description in the lab notes
- *************************************************/
-
 #include <iostream>
 using namespace std;
 int main()
