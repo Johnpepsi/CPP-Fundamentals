@@ -1,9 +1,3 @@
-/*************************************************
- * Student Name: John Palaganas
- * Student Number: 200480405
- * Assignment Number: CS 110 Lab 4 exercise 4
-**************************************************/
-
 #include <iostream>
 #include <string>
 
