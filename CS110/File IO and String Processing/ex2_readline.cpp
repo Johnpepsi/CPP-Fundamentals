@@ -1,11 +1,3 @@
-/*************************************************
- * Student Name: John Palaganas
- * Student Number: 200480405
- * Assignment Number: CS 110 Lab 4 exercise 2
-**************************************************/
-
-// Program ex2_readline.cpp demonstrates how to read a line of text from a file
-
 #include <iostream>
 #include <fstream>
 #include <string>
