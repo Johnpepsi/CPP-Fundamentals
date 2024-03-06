@@ -1,11 +1,3 @@
-/*************************************************
- * Student Name: John Palaganas
- * Class instructor: JingTao Ya
- * Student Number: 200480405
- * Assignment Number: CS 110 Lab 4 exercise 1
- * Program Name: Lab 4 ex1_lab4
-**************************************************/
-
 #include <iostream>
 #include <fstream>
 #include <string>
