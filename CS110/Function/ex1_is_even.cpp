@@ -1,13 +1,3 @@
-/*************************************************
- * Student Name: John Palaganas
- * Student Number: 200480405
- * Replit User Name: <~~jpl653~~<<
- * Acitvity: Lab 8 Exercise 1 - 3
- * Program Name: ex3_is_even.cpp
- * Last Modified: March 05 2024
- * Learning: Program to test "is_even" function.
- *************************************************/
-
 #include <iostream>
 using namespace std;
 
