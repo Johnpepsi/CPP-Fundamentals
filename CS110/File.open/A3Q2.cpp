@@ -1,9 +1,4 @@
 /*************************************************
- * Student Name: John Palaganas
- * Student Number: 200480405
- * Assignment Number: CS 110 Assignment 3
- * Program Name: A3Q3.cpp
- *
  * ------ Problem Statement -----
  * Write a program that prompts the user to enter a hexadecimal digit
  * or an integer between 0-15 and display its corresponding decimal number
