@@ -1,6 +1,6 @@
 /******* ------ Problem Statement -----
- * Write a C++ program that reads in from a file that contains full names of employees 
- * of ABC Company. The file is formatted in the following or hex decimal number units.
+ Write a C++ program that reads in from a file that contains full names of employees 
+ of ABC Company. The file is formatted in the following or hex decimal number units.
   ******************************/
 
 #include <iostream>
