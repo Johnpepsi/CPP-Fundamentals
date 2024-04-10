@@ -1,3 +1,7 @@
+// By studying this program, you can gain insights into randomization techniques, string manipulation, user input handling, function implementation, 
+// logical operations, and output formatting, which may be relevant for your finals, 
+// especially if they cover topics related to programming, algorithms, or cybersecurity.
+
 //Generate a certain length password by given no of capital, small, digit, special  
 #include <iostream>
 #include <string>
